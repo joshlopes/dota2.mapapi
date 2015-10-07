@@ -1,0 +1,11 @@
+abbadon:
+  icon: '/images/items/Abaddon_icon.png'
+
+alchemist:
+  icon: '/images/items/Alchemist_icon.png'
+
+rune_bounty:
+  icon: 'images/items/Rune_icon_Bounty.png'
+
+rune_haste:
+  icon: 'images/items/Rune_icon_Haste.png'

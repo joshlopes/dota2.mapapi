@@ -1,0 +1,5 @@
+big_map:
+  src: /images/map/minimap_1000px.png
+
+medium_map:
+  src: /images/map/minimap_600px.png
